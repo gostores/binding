@@ -3,7 +3,7 @@ package binding
 import (
 	"net/http"
 
-	"github.com/gostores/validator"
+	"github.com/govenue/validator"
 )
 
 const (

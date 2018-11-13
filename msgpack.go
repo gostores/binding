@@ -3,7 +3,7 @@ package binding
 import (
 	"net/http"
 
-	"github.com/gostores/codec"
+	"github.com/govenue/codec"
 )
 
 type msgpackBinding struct{}

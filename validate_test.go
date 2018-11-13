@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gostores/assert"
+	"github.com/govenue/assert"
 )
 
 type testInterface interface {

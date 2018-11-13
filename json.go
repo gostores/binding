@@ -3,7 +3,7 @@ package binding
 import (
 	"net/http"
 
-	"github.com/gostores/encoding/json"
+	"github.com/govenue/encoding/json"
 )
 
 var EnableDecoderUseNumber = false

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/gostores/validator"
+	"github.com/govenue/validator"
 )
 
 type defaultValidator struct {

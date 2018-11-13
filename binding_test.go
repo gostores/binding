@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/gostores/assert"
-	"github.com/gostores/binding/example"
-	"github.com/gostores/codec"
+	"github.com/govenue/assert"
+	"github.com/govenue/binding/example"
+	"github.com/govenue/codec"
 )
 
 type FooStruct struct {
